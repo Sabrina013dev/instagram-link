@@ -228,17 +228,17 @@ a {
     color: var(--color-white);
 }
 
-.redes-sociais .youtube:hover i {
+.redes-sociais .linkedin:hover i {
     color: #0A66C2;
     transition: color 0.3s;
 }
 
-.redes-sociais .instagram:hover i {
+.redes-sociais .github:hover i {
     color: #6b41a6;
     transition: color 0.3s;
 }
 
-.redes-sociais .spotify:hover i {
+.redes-sociais .whatsapp:hover i {
     color: greenyellow;
     transition: color 0.3s;
     border: 20px;
