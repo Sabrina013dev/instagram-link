@@ -14,12 +14,6 @@ Este é um template simples e estiloso para criar sua própria página de Link B
 
 ---
 
-## Como Usar o Template
-
-### 1. Clone ou Baixe o Repositório
-- Ou faça o download do ZIP 
-
-
 - **index.html:** Estrutura principal da página.
 - **css/styles.css:** Arquivo de estilos.
 - **image:** Pasta com as imagens do projeto.
